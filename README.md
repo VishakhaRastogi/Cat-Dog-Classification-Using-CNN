@@ -12,3 +12,5 @@
 <li>matplotlib</li>
 <li>opencv</li>
 </ul>
+
+<img src="images/gui.PNG" width="50%" height="50%">
