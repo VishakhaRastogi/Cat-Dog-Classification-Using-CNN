@@ -7,10 +7,13 @@
 
 ## Libraries used:<br>
 <ul>
-<li>keras</li>
-<li>numpy</li>
-<li>matplotlib</li>
-<li>opencv</li>
+  <li>keras</li>
+  <li>numpy</li>
+  <li>matplotlib</li>
+  <li>opencv</li>
+  <li>tkinter</li>
+  <li>PIL</li>
 </ul>
 
+## GUI<br>
 <img src="images/gui.PNG" width="50%" height="50%">
