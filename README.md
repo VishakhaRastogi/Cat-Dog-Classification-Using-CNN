@@ -5,7 +5,7 @@
 
 ![](images/cnn.png)
 
-## Libraries used:<br>
+## Libraries used:
 <ul>
   <li>keras</li>
   <li>numpy</li>
@@ -15,5 +15,5 @@
   <li>PIL</li>
 </ul>
 
-## GUI<br>
+## GUI
 <img src="images/gui.PNG" width="60%" height="70%">
