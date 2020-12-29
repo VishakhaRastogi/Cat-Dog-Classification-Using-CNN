@@ -5,7 +5,7 @@
 
 ![](images/cnn.png)
 
-## Libraries used:
+## Libraries used
 <ul>
   <li>keras</li>
   <li>numpy</li>
