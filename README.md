@@ -5,7 +5,7 @@
 
 ![](images/cnn.png)
 
-## Libraries used
+## Required Python libraries and packages
 <ul>
   <li>keras</li>
   <li>numpy</li>
